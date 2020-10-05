@@ -1,0 +1,9 @@
+{
+  "name": "github-automation",
+  "version": "1.0.0",
+  "description": "github automation tool",
+  "main": "main.js",
+  "repository": "git@github.com:bwakedavis/github-automation.git",
+  "author": "bwakedavis <bwakedavis@gmail.com>",
+  "license": "MIT"
+}
