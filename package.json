@@ -5,5 +5,12 @@
   "main": "main.js",
   "repository": "git@github.com:bwakedavis/github-automation.git",
   "author": "bwakedavis <bwakedavis@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^18.0.6",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "github-api": "^3.3.0",
+    "node-fetch": "^2.6.1"
+  }
 }

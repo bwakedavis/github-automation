@@ -1,0 +1,5 @@
+node_modules/
+kijaniyard.2020-10-05.private-key.pem
+file.txt
+yarn.lock
+.env
